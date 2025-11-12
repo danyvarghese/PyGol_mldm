@@ -33,7 +33,7 @@ Anyone wishing to use PyGol for commercial purposes should contact either Dany V
 Install PyGol with the command;
 
 ```cmd
-pip install git+https://github.com/danyvarghese/PyGol.git@main
+pip install git+https://github.com/danyvarghese/PyGol_mldm.git@main
 ```
 ## Example
 PyGol requires four inputs, either in the form of files or a list
